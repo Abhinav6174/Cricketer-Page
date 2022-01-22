@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+body {
+    background-color: #e6f6ff;
+}
+
+.namecard {
+    background-color: #fb4e71;
+    color: #ffffff;
+    padding: 14px;
+}
+
+.cardimage1 {
+    width: 120px;
+    height: 160px;
+}
+
+.text {
+    color: #323f4b;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.bottom {
+    margin: 14px;
+}
+
+.ipl-card {
+    background-color: #ffffff;
+    color: #888888;
+    border-radius: 8px;
+}
+
+.cardimage2 {
+    width: 120px;
+    height: 160px;
+}
+
+.ipl-card-heading {
+    color: #323f4b;
+    font-size: 20px;
+    font-family: "Roboto";
+    padding: 8px;
+}
+
+.ipl-card-para {
+    color: #888888;
+    font-size: 14px;
+    font-family: "Roboto";
+    padding: 8px;
+}
+
+.video-text {
+    font-size: 14px;
+    font-family: "Roboto";
+}
+
+.video-image {
+    width: 100px;
+    height: 120px;
+    margin: 10px;
+}
